@@ -11,5 +11,3 @@ My daily log day after day.
 Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
-
-### Jun
